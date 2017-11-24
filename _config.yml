@@ -1,5 +1,17 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Goblet's Site
+description: GOBLET's site.
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-cayman
+url: mygobletorg.github.io
+
+# Social Media
+
+twitter_username: mygobletorg
+github_username:  mygobletorg
+
+# Build settings
+markdown: kramdown
+
+# Google Services
+
+google_analytics:
